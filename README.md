@@ -6,7 +6,7 @@ Grab blog posts from Big Commerce and send them to WordPress.
 
 Clone this repo to your local machine
 
-```node
+```
 git clone https://github.com/BrodSolutionsDev/transfer-blog-posts-from-bigcommerce-to-wordpress.git
 ```
 
@@ -14,7 +14,7 @@ git clone https://github.com/BrodSolutionsDev/transfer-blog-posts-from-bigcommer
 
 Before anything else, install the required packages
 
-```node
+```
 npm install
 ```
 
@@ -28,6 +28,6 @@ After the download finishes
 
 Run the following code to send the blog posts to WordPress. If done correctly, you'll see "Posted Successfully!" in the console for every post.
 
-```node
+```
 node index.js
 ```
